@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Covid-19 Testing Management System</title>
+  <title>Covid-19 Vaccination Booking System</title>
 
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -23,7 +23,7 @@
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
     <div class="container">
-      <a class="navbar-brand js-scroll-trigger" href="#page-top">Covid19-TMS</a>
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">Covid19-VBS</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -39,7 +39,7 @@
             <a class="nav-link js-scroll-trigger" href="#contact">Prevention</a>
           </li>
   <li class="nav-item active">
-            <a class="nav-link js-scroll-trigger" href="new-user-testing.php">Testing</a>
+            <a class="nav-link js-scroll-trigger" href="new-user-testing.php">User</a>
           </li>
            <li class="nav-item active">
             <a class="nav-link js-scroll-trigger" href="live-test-updates.php">Live Updates</a>
@@ -57,8 +57,8 @@
 
   <header class="bg-primary text-white">
     <div class="container text-center">
-      <h1>COVID19-TMS</h1>
-      <p class="lead">COVID19 - Testing Management System</p>
+      <h1>COVID19-VBS</h1>
+      <p class="lead">COVID19 - Vaccination Booking System</p>
     </div>
   </header>
 
@@ -113,7 +113,7 @@ Reported illnesses have ranged from mild symptoms to severe illness and death</p
   <!-- Footer -->
   <footer class="py-5 bg-dark">
     <div class="container">
-      <p class="m-0 text-center text-white">Copyright &copy; Your Website 2020</p>
+      <p class="m-0 text-center text-white">Copyright &copy; Your Website 2023</p>
     </div>
     <!-- /.container -->
   </footer>
