@@ -1,4 +1,4 @@
-How to run the COVID19 Testing Management System Using PHP and MySQL
+How to run the COVID19 Vaccination Booking System Using PHP and MySQL
 
 Download the zip file
 Extract the file and copy covid-VBS folder
